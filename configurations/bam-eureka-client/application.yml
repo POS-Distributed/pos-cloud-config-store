@@ -2,3 +2,4 @@
 spring:
   application:
     name: bam-eureka-client
+msg: here you go
