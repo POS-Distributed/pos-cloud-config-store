@@ -1,0 +1,5 @@
+
+spring:
+  application:
+    name: bam-api-gateway
+msg: here you go
